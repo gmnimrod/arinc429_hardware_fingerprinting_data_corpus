@@ -1,5 +1,6 @@
 Copyright (C) Nimrod Gilboa-Markevich and Avishai Wool 2019-2020. All rights reserved.
 
+{::nomarkdown}
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">
 <center><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a></center>
 
@@ -9,7 +10,8 @@ This data corpus is licensed under a
 If you find this data useful, we ask that you cite our paper:
 
 N. Gilboa-Markevich and A. Wool. <a href=https://doi.org/10.1007/978-3-030-59013-0_3>Hardware fingerprinting for the ARINC 429 avionic bus</a>.<br>
-In *Proc. 25th European Symposium on Research in Computer Security (ESORICS), LNCS 12309 Part II, pages 42–62, University of Surrey, UK, September 2020*.
+In <i>Proc. 25th European Symposium on Research in Computer Security (ESORICS), LNCS 12309 Part II, pages 42–62, University of Surrey, UK, September 2020</i>.
+{:/nomarkdown}
 
 ---
 
