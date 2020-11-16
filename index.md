@@ -92,6 +92,4 @@ Send comments to<br>
 &nbsp;&nbsp;Avishai Wool <yash@eng.tau.ac.il><br>
 &nbsp;&nbsp;http://www.eng.tau.ac.il/~yash
 
----
-
 Copyright (C) Nimrod Gilboa-Markevich and Avishai Wool 2019-2020. All rights reserved.
