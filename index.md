@@ -1,5 +1,3 @@
-Copyright (C) Nimrod Gilboa-Markevich and Avishai Wool 2019-2020. All rights reserved.
-
 {::nomarkdown}
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">
 <center><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a></center>
@@ -91,3 +89,7 @@ Send comments to<br>
 &nbsp;&nbsp;Nimrod Gilboa-Markevich  <gmnimrod@gmail.com><br>
 &nbsp;&nbsp;Avishai Wool <yash@eng.tau.ac.il><br>
 &nbsp;&nbsp;http://www.eng.tau.ac.il/~yash
+
+---
+
+Copyright (C) Nimrod Gilboa-Markevich and Avishai Wool 2019-2020. All rights reserved.
